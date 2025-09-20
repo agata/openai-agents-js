@@ -40,6 +40,8 @@ export {
   WebSocketState,
 } from './openaiRealtimeWebsocket';
 
+export { CloudflareRealtimeWebSocket } from './cloudflareRealtimeTransport';
+
 export {
   OpenAIRealtimeModels,
   OpenAIRealtimeBase,
